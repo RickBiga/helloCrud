@@ -6,7 +6,7 @@ const port = 3000;
 
 const usuarioRicardo = {
     id: 1,
-    Nome: 'Ricardo',
+    Nome: 'Ricardo Bigarani',
     Idade: 38,
 };
 
